@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankurkonwar from Assam,India.I did my post graduation from sikkim university in computer applications in the year of 2020.
+- 👋 Hi, I’m Ankur Jyoti Konwar from Assam,India.I did my post graduation from sikkim university in computer applications in the year of 2020.
 - 👀 I’m interested in learning new technical skills,coding and developing softwares
 - 🌱 I’m currently looking forward for better software development roles where i can apply my technical skills to develop my company and get proud.
 - 💞️ I’m looking to collaborate on industry tech team for develop softwares
